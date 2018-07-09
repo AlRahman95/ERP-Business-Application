@@ -25,7 +25,7 @@ Orders_06012013.txt is a sample row of data for one order.
 3. If time allows, implement an audit trail using aspect-oriented programming.
 
 ## Rules of the Application
-1. We are using an enterprise MVC architecture for this project so your code must be organized into reasonable classes.  You will draw a  UML class diagram and high-level flowchart before proceeding with writing code.
+1. This is using an enterprise MVC architecture for this project so your code must be organized into reasonable classes.  You will draw a  UML class diagram and high-level flowchart before proceeding with writing code.
 2. For an enterprise architecture, we must layer our code.
 - The model package may only contain classes that have data members (properties).
 - The dao package contains classes that are responsible for persisting data.
